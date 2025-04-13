@@ -1,1 +1,34 @@
-# xiandaikongzhixitongdaandishierbanziyuanxiazai
+# 现代控制系统答案（第十二版）资源下载
+
+## 资源描述
+
+本仓库提供《现代控制系统》（第十二版）的答案手册下载。该答案手册由Richard C. Dorf和Robert H. Bishop编写，涵盖了University of California Davis和Marquette University的相关课程内容。
+
+## 资源内容
+
+- **书名**: 现代控制系统（第十二版）
+- **作者**: Richard C. Dorf, Robert H. Bishop
+- **适用对象**: 大学本科生、研究生及相关领域的研究人员
+- **内容概述**: 该答案手册包含了书中所有习题的详细解答，帮助读者更好地理解和掌握现代控制系统的理论与应用。
+
+## 使用说明
+
+1. 下载资源文件。
+2. 解压缩文件（如有需要）。
+3. 打开答案手册，按照章节顺序查阅相关习题的解答。
+
+## 注意事项
+
+- 请尊重版权，仅用于个人学习和研究。
+- 如有任何问题或建议，欢迎通过仓库的Issues功能提出。
+
+希望这份答案手册能够帮助你更好地学习现代控制系统！
+
+## 下载链接
+[现代控制系统答案第十二版资源下载](https://pan.quark.cn/s/1018da101c5a) 
+
+(备用: [备用下载](https://pan.baidu.com/s/1uzAauIULXfC2IH78-xyt8w?pwd=1234))
+
+## 说明
+
+该仓库仅用于学习交流，请勿用于商业用途。
